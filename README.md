@@ -1,4 +1,3 @@
 # README
 
-RubyonRailsTutorial Майкл Хартл
-toy_app
+RubyonRailsTutorial Майкл Хартл: toy_app
